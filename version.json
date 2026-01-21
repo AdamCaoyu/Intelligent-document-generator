@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "url": "https://github.com/AdamCaoyu/Intelligent-document-generator/releases/download/v1.0.2/_Setup_v1.0.2.exe",
-  "changelog": "修复关键字没输入替换为提示词的问题"
+  "changelog": "增加在线更新功能"
 }
