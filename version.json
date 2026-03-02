@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0.1",
-  "url": "https://github.com/AdamCaoyu/Intelligent-document-generator/releases/download/V2.0.0.1/_Setup_v2.0.0.1.exe",
-  "changelog": "新增在线授权支付功能"
+  "version": "2.0.0.2",
+  "url": "https://github.com/AdamCaoyu/Intelligent-document-generator/releases/download/V2.0.0.2/_Setup_v2.0.0.2.exe",
+  "changelog": "优化模板扫描逻辑"
 }
